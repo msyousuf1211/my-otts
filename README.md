@@ -1,4 +1,4 @@
-# streamlit-project
+# Streamlit-project
 # Intelligent OTT Platform System
 
 ## Project Description
