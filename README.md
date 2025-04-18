@@ -34,10 +34,10 @@ The system incorporates advanced architecture to ensure efficient processing and
 ## Contributors
 - Mrs. P. Renuka (Project Lead)  
 - Dr. S. Fahimuddin  
-- S. Arif Hussain  
+- MS. Mahammad yousuf  
 - K. Pavan Kumar  
 - Y. Dhanush Kumar Raju  
-- Ms. Mahammad Yousuf  
+- S. Arif Hussain 
 
 ## Acknowledgments
 We express our gratitude to Annamacharya University, Rajampet, Andhra Pradesh, for their support in making this project a reality. Special thanks to our faculty members and peers who guided us throughout.
@@ -56,4 +56,4 @@ This project is licensed under [MIT License](https://opensource.org/licenses/MIT
 
 ---
 
-Let me know if you'd like additional sections or adjustments. This README is comprehensive and professional, making it perfect for your GitHub repository!
+
