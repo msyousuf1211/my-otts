@@ -34,7 +34,7 @@ The system incorporates advanced architecture to ensure efficient processing and
 ## Contributors
 - Mrs. P. Renuka (Project Lead)  
 - Dr. S. Fahimuddin  
-- MS. Mahammad yousuf  
+- MS. Mahammad Yousuf  
 - K. Pavan Kumar  
 - Y. Dhanush Kumar Raju  
 - S. Arif Hussain 
